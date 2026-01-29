@@ -1,6 +1,6 @@
 # About me
-- Full Stack Developer | NestJS & Next.js
-- Computer Science @ UDESC
+- Software Engineer
+- MSc. Computer Science Student @ Unicamp
 - Game Dev Entusiast
   
 <div align="center">
@@ -11,24 +11,38 @@
 
 # I code with
 
+<!--
+Icon URLs organized by category:
+
+Languages:
+- C#: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
+- C++: https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/cplusplus/cplusplus-original.svg
+- Go: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg
+- Python: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+- TypeScript: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
+- JavaScript: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+
+Frameworks:
+- React: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+
+Tools:
+- Git: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+
+Game Engines:
+- Unity: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
+- Godot: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg
+-->
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo" style="margin-right: 16px;" /> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="36" alt="cpp logo" style="margin-right: 16px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="go logo" style="margin-right: 16px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" style="margin-right: 16px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" style="margin-right: 16px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" style="margin-right: 16px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" style="margin-right: 16px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity logo" style="margin-right: 16px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="36" alt="godot logo" />
 </div>
 
 ###
