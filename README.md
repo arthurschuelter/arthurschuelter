@@ -1,78 +1,60 @@
-# About me
-- Software Engineer
-- BSc. Computer Science @ UDESC
-- MSc. Computer Science Student @ Unicamp
-- Game Dev Enthusiast
-  
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=arthurschuelter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurschuelter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:bd93f9,100:ff79c6&text=Hey%2C%20I'm%20Tuca&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20MSc.%20Student%20%C2%B7%20Game%20Dev%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="Hey, I'm Tuca" width="100%" />
+
+<a href="https://github.com/arthurschuelter">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=520&height=40&lines=Building+software+that+works.;Researching+@+Unicamp.;Making+games+for+fun." alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BSc.-Computer%20Science%20%40%20UDESC-282a36?style=for-the-badge&labelColor=bd93f9&color=282a36" alt="BSc UDESC" />
+<img src="https://img.shields.io/badge/MSc.-Computer%20Science%20%40%20Unicamp-282a36?style=for-the-badge&labelColor=ff79c6&color=282a36" alt="MSc. Unicamp" />
+
 </div>
 
+<br/> -->
 
-# Tech Stack
+## About me
 
+<!-- - Software Engineer, full-stack with a taste for backend -->
+- MSc. student in Computer Science @ Unicamp
+- BSc. in Computer Science @ UDESC
+- Game dev enthusiast
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,nestjs,dotnet,react,vue,postgres,mongodb,mysql,docker,godot,unity,unreal&theme=dark&perline=7" alt="C++, Python, NestJS, .NET, React, Vue, PostgreSQL, MongoDB, MySQL, Docker, Godot, Unity, Unreal" />
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurschuelter&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117&locale=en" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurschuelter&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117&locale=en" height="165" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=arthurschuelter&theme=dracula&hide_border=true&background=0d1117" height="165" alt="Streak stats" />
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONNECT (add your links) ═══════════════ -->
 <!--
-Icon URLs organized by category:
+## Connect
 
-Languages:
-- C#: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
-- C++: https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/cplusplus/cplusplus-original.svg
-- Go: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg
-- Python: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-- TypeScript: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
-- JavaScript: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-
-Frontend:
-- React: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-- Next.js: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg
-- Vue: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
-
-Backend:
-- NestJS: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg
-- Node.js: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
-- .NET: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg
-
-Databases:
-- PostgreSQL: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
-- MongoDB: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
-- MySQL: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-
-Tools:
-- Git: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-- Docker: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
-
-Game Engines:
-- Unity: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
-- Godot: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=bd93f9" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR@EMAIL"><img src="https://img.shields.io/badge/Email-282a36?style=for-the-badge&logo=gmail&logoColor=ff79c6" alt="Email" /></a>
+</div>
 -->
 
-<!-- ### Languages -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="go logo" style="margin-right: 16px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="36" alt="cpp logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo" style="margin-right: 16px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" style="margin-right: 16px;" />
-</div>
-
-### Full-Stack Development
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="nestjs logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" alt="dotnet logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="vue logo" style="margin-right: 32px;" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo" style="margin-right: 16px;" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker logo" />
-</div>
-
-### Game Development
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity logo" style="margin-right: 16px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="36" alt="godot logo" />
-</div>
-
-###
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ff79c6,100:bd93f9" alt="" width="100%" />
+</div> -->
