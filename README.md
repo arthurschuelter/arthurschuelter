@@ -31,18 +31,18 @@
   <img src="https://skillicons.dev/icons?i=cpp,py,nestjs,dotnet,react,vue,postgres,mongodb,mysql,docker,godot,unity,unreal&theme=dark&perline=7" alt="C++, Python, NestJS, .NET, React, Vue, PostgreSQL, MongoDB, MySQL, Docker, Godot, Unity, Unreal" />
 </div>
 
-<br/>
+<!-- <br/> -->
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurschuelter&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117&locale=en" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurschuelter&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117&locale=en" height="165" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=arthurschuelter&theme=dracula&hide_border=true&background=0d1117" height="165" alt="Streak stats" />
-</div>
-
-<br/>
+<!-- ## GitHub Stats -->
+<!---->
+<!-- <div align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=arthurschuelter&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117&locale=en" height="165" alt="GitHub stats" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurschuelter&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117&locale=en" height="165" alt="Top languages" /> -->
+<!--   <br/> -->
+<!--   <img src="https://streak-stats.demolab.com?user=arthurschuelter&theme=dracula&hide_border=true&background=0d1117" height="165" alt="Streak stats" /> -->
+<!-- </div> -->
+<!---->
+<!-- <br/> -->
 
 <!-- ═══════════════ CONNECT (add your links) ═══════════════ -->
 <!--
