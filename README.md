@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/arthur-schuelter/"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=bd93f9" alt="LinkedIn" /></a>
 </div> -->
 
-<br/>
+<!-- <br/> -->
 
-## What I’m Working On
+<!-- ## What I’m Working On
 
 - **Branch and Price** — exploring branch-and-price methods for optimization.
 - **Neoswitch** — a Neovim profile switcher.
-- **bon mot.** — a tool for learning French.
+- **bon mot.** — a tool for learning French. -->
 
 <br/>
 
