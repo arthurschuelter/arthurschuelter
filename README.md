@@ -25,7 +25,7 @@
 ## Tech Stack
 
 | Category | Tool |
-| --- | --- |
+| --- | :---: |
 | **Languages** | <img src="https://skillicons.dev/icons?i=go,cpp,py&theme=dark" alt="Go, C++, Python" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,dotnet&theme=dark" alt="NestJS, .NET" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue&theme=dark" alt="React, Vue" /> |
