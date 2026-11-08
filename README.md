@@ -24,6 +24,10 @@
 
 ## Tech Stack
 
+<img align="right" width="45%" src="assets/languages.svg" alt="Language percentages across public, non-fork repositories" />
+
+<div>
+
 | Category | Tool |
 | --- | :---: |
 | **Languages** | <img src="https://skillicons.dev/icons?i=go,cpp,py&theme=dark" alt="Go, C++, Python" /> |
@@ -32,6 +36,7 @@
 | **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" alt="PostgreSQL, Docker" /> |
 | **Game Development** | <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Godot, Unity" /> |
 
-<br/>
+</div>
 
+<br/>
 
