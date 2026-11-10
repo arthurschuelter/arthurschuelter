@@ -53,7 +53,7 @@ def render(languages):
         '<desc id="desc">Percentages based on GitHub language byte counts for public, non-fork repositories.</desc>',
         f'<rect x="0.5" y="0.5" width="459" height="{height - 1}" rx="12" fill="#282a36" stroke="#44475a"/>',
         '<text x="24" y="36" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Languages</text>',
-        '<text x="24" y="57" fill="#a9a9b3" font-family="Arial, sans-serif" font-size="12">Public repositories · share of code by bytes</text>',
+        '<text x="24" y="57" fill="#a9a9b3" font-family="Arial, sans-serif" font-size="12">Public repositories</text>',
         '<clipPath id="bar"><rect x="24" y="72" width="412" height="9" rx="4.5"/></clipPath>',
         '<g clip-path="url(#bar)">',
     ]

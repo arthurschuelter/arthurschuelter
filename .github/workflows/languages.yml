@@ -2,7 +2,7 @@ name: Update language widget
 
 on:
   schedule:
-    - cron: '00 9 * * *'
+    - cron: '33 3 * * *'
   workflow_dispatch:
 
 permissions:
