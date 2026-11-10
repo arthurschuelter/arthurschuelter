@@ -3,23 +3,23 @@
 <desc id="desc">Percentages based on GitHub language byte counts for public, non-fork repositories.</desc>
 <rect x="0.5" y="0.5" width="459" height="307" rx="12" fill="#282a36" stroke="#44475a"/>
 <text x="24" y="36" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Languages</text>
-<text x="24" y="57" fill="#a9a9b3" font-family="Arial, sans-serif" font-size="12">Public repositories · share of code by bytes</text>
+<text x="24" y="57" fill="#a9a9b3" font-family="Arial, sans-serif" font-size="12">Public repositories</text>
 <clipPath id="bar"><rect x="24" y="72" width="412" height="9" rx="4.5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.0000" y="72" width="158.8964" height="9" fill="#bd93f9"/>
-<rect x="182.8964" y="72" width="70.4562" height="9" fill="#8be9fd"/>
-<rect x="253.3527" y="72" width="37.2705" height="9" fill="#50fa7b"/>
-<rect x="290.6232" y="72" width="34.3335" height="9" fill="#ffb86c"/>
-<rect x="324.9566" y="72" width="18.9568" height="9" fill="#ff79c6"/>
-<rect x="343.9134" y="72" width="17.9057" height="9" fill="#f1fa8c"/>
-<rect x="361.8191" y="72" width="74.1809" height="9" fill="#ff5555"/>
+<rect x="24.0000" y="72" width="160.3426" height="9" fill="#bd93f9"/>
+<rect x="184.3426" y="72" width="70.0498" height="9" fill="#8be9fd"/>
+<rect x="254.3923" y="72" width="37.0576" height="9" fill="#50fa7b"/>
+<rect x="291.4499" y="72" width="34.1373" height="9" fill="#ffb86c"/>
+<rect x="325.5873" y="72" width="18.8485" height="9" fill="#ff79c6"/>
+<rect x="344.4357" y="72" width="17.8034" height="9" fill="#f1fa8c"/>
+<rect x="362.2391" y="72" width="73.7609" height="9" fill="#ff5555"/>
 </g>
 <circle cx="29" cy="105" r="5" fill="#bd93f9"/>
 <text x="43" y="109" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">C++</text>
-<text x="436" y="109" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">38.6%</text>
+<text x="436" y="109" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">38.9%</text>
 <circle cx="29" cy="134" r="5" fill="#8be9fd"/>
 <text x="43" y="138" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">Python</text>
-<text x="436" y="138" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">17.1%</text>
+<text x="436" y="138" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">17.0%</text>
 <circle cx="29" cy="163" r="5" fill="#50fa7b"/>
 <text x="43" y="167" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">GDScript</text>
 <text x="436" y="167" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">9.0%</text>
@@ -34,5 +34,5 @@
 <text x="436" y="254" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">4.3%</text>
 <circle cx="29" cy="279" r="5" fill="#ff5555"/>
 <text x="43" y="283" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">Other</text>
-<text x="436" y="283" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">18.0%</text>
+<text x="436" y="283" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">17.9%</text>
 </svg>
