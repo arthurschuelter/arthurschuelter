@@ -6,33 +6,33 @@
 <text x="24" y="57" fill="#a9a9b3" font-family="Arial, sans-serif" font-size="12">Public repositories</text>
 <clipPath id="bar"><rect x="24" y="72" width="412" height="9" rx="4.5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.0000" y="72" width="104.1366" height="9" fill="#bd93f9"/>
-<rect x="128.1366" y="72" width="87.1640" height="9" fill="#8be9fd"/>
-<rect x="215.3006" y="72" width="44.3424" height="9" fill="#50fa7b"/>
-<rect x="259.6431" y="72" width="40.8481" height="9" fill="#ffb86c"/>
-<rect x="300.4912" y="72" width="26.5462" height="9" fill="#ff79c6"/>
-<rect x="327.0374" y="72" width="22.5538" height="9" fill="#f1fa8c"/>
-<rect x="349.5911" y="72" width="86.4089" height="9" fill="#ff5555"/>
+<rect x="24.0000" y="72" width="101.3756" height="9" fill="#bd93f9"/>
+<rect x="125.3756" y="72" width="84.8530" height="9" fill="#8be9fd"/>
+<rect x="210.2286" y="72" width="43.1668" height="9" fill="#50fa7b"/>
+<rect x="253.3953" y="72" width="39.7651" height="9" fill="#ffb86c"/>
+<rect x="293.1604" y="72" width="36.7659" height="9" fill="#ff79c6"/>
+<rect x="329.9263" y="72" width="21.9558" height="9" fill="#f1fa8c"/>
+<rect x="351.8821" y="72" width="84.1179" height="9" fill="#ff5555"/>
 </g>
 <circle cx="29" cy="105" r="5" fill="#bd93f9"/>
 <text x="43" y="109" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">C++</text>
-<text x="436" y="109" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">25.3%</text>
+<text x="436" y="109" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">24.6%</text>
 <circle cx="29" cy="134" r="5" fill="#8be9fd"/>
 <text x="43" y="138" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">Python</text>
-<text x="436" y="138" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">21.2%</text>
+<text x="436" y="138" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">20.6%</text>
 <circle cx="29" cy="163" r="5" fill="#50fa7b"/>
 <text x="43" y="167" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">GDScript</text>
-<text x="436" y="167" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">10.8%</text>
+<text x="436" y="167" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">10.5%</text>
 <circle cx="29" cy="192" r="5" fill="#ffb86c"/>
 <text x="43" y="196" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">C#</text>
-<text x="436" y="196" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">9.9%</text>
+<text x="436" y="196" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">9.7%</text>
 <circle cx="29" cy="221" r="5" fill="#ff79c6"/>
 <text x="43" y="225" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">Go</text>
-<text x="436" y="225" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">6.4%</text>
+<text x="436" y="225" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">8.9%</text>
 <circle cx="29" cy="250" r="5" fill="#f1fa8c"/>
 <text x="43" y="254" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">TypeScript</text>
-<text x="436" y="254" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">5.5%</text>
+<text x="436" y="254" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">5.3%</text>
 <circle cx="29" cy="279" r="5" fill="#ff5555"/>
 <text x="43" y="283" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">Other</text>
-<text x="436" y="283" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">21.0%</text>
+<text x="436" y="283" text-anchor="end" fill="#f8f8f2" font-family="Arial, sans-serif" font-size="13">20.4%</text>
 </svg>
