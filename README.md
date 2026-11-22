@@ -30,7 +30,7 @@ Outside of research, I like building software and games.
 | Category | Tool |
 | --- | :---: |
 | **Languages** | <img src="https://skillicons.dev/icons?i=go,cpp,py&theme=dark" alt="Go, C++, Python" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=go, nestjs,dotnet&theme=dark" alt="Go, NestJS, .NET" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=go,nestjs,dotnet&theme=dark" alt="Go, NestJS, .NET" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue&theme=dark" alt="React, Vue" /> |
 | **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" alt="PostgreSQL, Docker" /> |
 | **Game Development** | <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Godot, Unity" /> |
