@@ -10,9 +10,10 @@
 
 MSc. student in Computer Science at the University of Campinas (Unicamp), working at LOCo (Laboratory of Optimization and Combinatorics).
 I research combinatorial optimization, mainly scheduling problems through integer linear programming, exact algorithms and heuristics.
+Worked ~6 years as a full-stack developer.
 
 Outside of research, I like building software and games. 
-<!-- <br/> -->
+<br/>
 
 ## What I’m Working On
 
@@ -20,9 +21,6 @@ Outside of research, I like building software and games.
 - **gb-emulator** — Game Boy emulator in C++.
 - **bon mot.** — a tool for learning French.
 - **Games** — jam games and side projects, on [itch.io](https://tururuca.itch.io/).
-
-<br/>
-
 <br/>
 
 ## Tech Stack
@@ -35,11 +33,15 @@ Outside of research, I like building software and games.
 | --- | :---: |
 | **Research & Optimization**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" alt="C++, Python" /> <img src="assets/gurobi.svg" width="48" height="48" alt="Gurobi" /> |
 | **Backend**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=go,ts,nestjs&theme=dark" alt="Go, TypeScript, NestJS" /> |
-| **Frontend**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=nextjs,react,vue&theme=dark" alt="Next.js, React, Vue" /> |
+| **Frontend**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=react,vue,nextjs&theme=dark" alt="React, Vue, Next.js" /> |
 | **Data & Cloud**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=postgres,docker,gcp&theme=dark" alt="PostgreSQL, Docker, GCP" /> <!-- <img src="assets/airflow.svg" width="48" height="48" alt="Airflow" /> --> |
 | **Game Dev**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Godot, Unity" /> |
 
 </div>
 
-<br/>
+<!-- <br/>
+## Background
 
+- **MSc. in Computer Science**, Unicamp (2026 – present): ILP formulations for flow shop batch scheduling.
+- **BSc. in Computer Science**, UDESC (2016 – 2020).
+- **~6 years as a full-stack developer**, container yard management platform, a retail ERP, a BI web platform, and legal management software. -->
