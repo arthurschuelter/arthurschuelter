@@ -9,6 +9,7 @@
 ## About me
 
 MSc. student at University of Campinas (Unicamp), working at LOCo (Laboratory of Optimization and Combinatorics).
+I research scheduling problems, mostly through heuristics, algorithms and combinatorial optimization.
 
 Outside of research, I like building software and games. 
 <!-- <br/> -->
