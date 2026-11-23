@@ -1,0 +1,7 @@
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>Gurobi</title>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g transform="translate(48 48) scale(3.3333)">
+    <path d="m22.072 0 14.064 2.718L48 36.74 36.74 48 0 35.27 3.61 11.904 22.072 0Zm24.778 36.478L35.774 4.72l-7.114 15.66 7.76 26.528 10.43 -10.428Zm-11.644 -32.92L22.276 1.056l-17.42 11.234 23.108 7.2 7.24 -15.936Z" fill="#EE3524"/>
+  </g>
+</svg>

@@ -8,8 +8,8 @@
 
 ## About me
 
-MSc. student at University of Campinas (Unicamp), working at LOCo (Laboratory of Optimization and Combinatorics).
-I research scheduling problems, mostly through heuristics, algorithms and combinatorial optimization.
+MSc. student in Computer Science at the University of Campinas (Unicamp), working at LOCo (Laboratory of Optimization and Combinatorics).
+I research combinatorial optimization, mainly scheduling problems through integer linear programming, exact algorithms and heuristics.
 
 Outside of research, I like building software and games. 
 <!-- <br/> -->
@@ -19,6 +19,9 @@ Outside of research, I like building software and games.
 - **Branch and Price** — exploring branch-and-price methods for optimization.
 - **gb-emulator** — Game Boy emulator in C++.
 - **bon mot.** — a tool for learning French.
+- **Games** — jam games and side projects, on [itch.io](https://tururuca.itch.io/).
+
+<br/>
 
 <br/>
 
@@ -28,13 +31,13 @@ Outside of research, I like building software and games.
 
 <div>
 
-| Category | Tool |
+| Category&nbsp;&nbsp;&nbsp;&nbsp; | Tools |
 | --- | :---: |
-| **Languages** | <img src="https://skillicons.dev/icons?i=go,cpp,py&theme=dark" alt="Go, C++, Python" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=go,nestjs,dotnet&theme=dark" alt="Go, NestJS, .NET" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue&theme=dark" alt="React, Vue" /> |
-| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" alt="PostgreSQL, Docker" /> |
-| **Game Development** | <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Godot, Unity" /> |
+| **Research & Optimization**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" alt="C++, Python" /> <img src="assets/gurobi.svg" width="48" height="48" alt="Gurobi" /> |
+| **Backend**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=go,ts,nestjs&theme=dark" alt="Go, TypeScript, NestJS" /> |
+| **Frontend**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=nextjs,react,vue&theme=dark" alt="Next.js, React, Vue" /> |
+| **Data & Cloud**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=postgres,docker,gcp&theme=dark" alt="PostgreSQL, Docker, GCP" /> <!-- <img src="assets/airflow.svg" width="48" height="48" alt="Airflow" /> --> |
+| **Game Dev**&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Godot, Unity" /> |
 
 </div>
 
